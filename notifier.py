@@ -3,7 +3,7 @@ import requests
 url = "https://www.fast2sms.com/dev/bulk"
 
 my_data = {
-    "authorization":"cgHJxPNUFSetwpvf1mQjAZsiKy5zTGu62o0qR9lEarLh7XODdkO5mLgXQWFr2DPVRjA7K1MJqZ86SiHC",
+#In authorization enter your API authorization key from Fast2Sms -> DevAPI "authorization":"cgHJxPNUFSetwpvf1mQjAZsiKy5zTGu62o0qR9lEarLh7XODdkO5mLgXQWFr2DPVRjA7K1MJqZ86SiHC",
     "sender_id":"FSTSMS",
     #Enter your message here(To add amazon product detail in future)
     "message":"",
